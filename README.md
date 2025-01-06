@@ -10,19 +10,6 @@ Both projects are designed to provide accessible, hands-free alternatives to tra
 
 ---
 
-## **Table of Contents**
-
-- [Features](#features)
-- [Purpose](#purpose)
-- [Advantages](#advantages)
-- [Applications](#applications)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## **Features**
 
 ### **Eye-Controlled Mouse**
@@ -76,17 +63,3 @@ Both projects aim to provide an accessible and innovative input method, especial
 
 ---
 
-## **Installation**
-
-### **Prerequisites**
-
-Before running the projects, make sure to install the following Python libraries:
-
-- **OpenCV**: For video capture and image processing.
-- **MediaPipe**: For hand and face landmark detection.
-- **PyAutoGUI**: For mouse control.
-
-### **Install Required Libraries**
-
-```bash
-pip install opencv-python mediapipe pyautogui
