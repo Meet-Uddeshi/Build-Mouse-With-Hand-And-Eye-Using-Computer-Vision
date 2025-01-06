@@ -61,5 +61,4 @@ Both projects aim to provide an accessible and innovative input method, especial
 - **Public Kiosks**: Use in interactive kiosks for touchless navigation.
 - **Presentation Control**: Control slides or volume during presentations.
 
----
 
