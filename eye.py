@@ -1,4 +1,4 @@
-# Step 1 => Importing necessary libraries and initializing webcam and face mesh detector
+
 import cv2
 import mediapipe as mp
 import pyautogui
