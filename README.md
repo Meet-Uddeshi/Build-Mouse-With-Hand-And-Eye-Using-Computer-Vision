@@ -1,18 +1,14 @@
-# Eye-Controlled and Hand-Controlled Mouse Projects
+# **Projects Overview**
 
-This repository contains two touchless input systems for controlling your mouse with **eye movements** and **hand gestures**. The projects utilize **OpenCV**, **MediaPipe**, and **PyAutoGUI** to create accessible, hands-free alternatives to traditional input devices. These systems are ideal for individuals with mobility impairments or anyone looking for an innovative way to control their computer.
-
-## **Projects Overview**
-
-### 1. **Eye-Controlled Mouse**
+# 1. **Eye-Controlled Mouse**
 A hands-free mouse control system allows users to control the mouse pointer with eye movements and simulate clicks with eye blinks.
 
-### 2. **Hand-Controlled Mouse**
+# 2. **Hand-Controlled Mouse**
 A touchless mouse control system using hand gestures, allows users to control the mouse pointer and simulate clicks.
 
-## **Features**
+# **Features**
 
-### **Eye-Controlled Mouse**
+# **Eye-Controlled Mouse**
 - **Eye Landmark Detection**: Tracks facial landmarks around the eyes.
 - **Real-Time Processing**: Webcam video processed in real-time.
 - **Pointer Control**: Move the cursor based on eye movements.
@@ -21,7 +17,7 @@ A touchless mouse control system using hand gestures, allows users to control th
 - **Dynamic Tracking**: Display of tracked landmarks in real-time.
 - **Simple Interface**: User-friendly for easy interaction.
 
-### **Hand-Controlled Mouse**
+# **Hand-Controlled Mouse**
 - **Hand Landmark Detection**: Tracks hand positions and gestures.
 - **Real-Time Processing**: Detect hand gestures via webcam.
 - **Thumb and Index Finger Tracking**: Measures the distance to simulate clicks.
@@ -30,24 +26,24 @@ A touchless mouse control system using hand gestures, allows users to control th
 - **Dynamic Hand Tracking**: Real-time feedback of hand landmarks.
 - **Simple Interface**: Easy-to-understand interface for hand gesture control.
 
-## **Purpose**
+# **Purpose**
 These projects aim to offer an accessible and innovative input method, particularly for individuals with physical impairments. They provide hands-free interaction with a computer, eliminating the need for traditional input devices like a mouse or touchpad.
 
-### **Eye-Controlled Mouse**  
+# **Eye-Controlled Mouse**  
 - Control the mouse pointer with eye movements.  
 - Simulate mouse clicks with eye blinks.
 
 ### **Hand-Controlled Mouse**  
 - Control the mouse pointer and simulate clicks using hand gestures.
 
-## **Advantages**
+# **Advantages**
 - **Hands-Free Control**: Both systems offer contactless control.
 - **Accessibility**: Perfect for users with mobility limitations.
 - **Real-Time Feedback**: Immediate response based on eye or hand movements.
 - **No Extra Hardware**: Just a webcam is required.
 - **Customizable**: Systems can be adapted for additional functionalities.
 
-## **Applications**
+# **Applications**
 - **Assistive Technology**: Helps users with disabilities interact with computers.
 - **Smart Devices**: Control smart home devices or media systems with gestures.
 - **Gaming**: Integrate for interactive, hands-free gaming.
